@@ -1,0 +1,19 @@
+{
+  "name": "qa-test-task-elite-it-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^13.13.0",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  },
+  "devDependencies": {
+    "cypress-html-reporter": "^11.0.0"
+  }
+}
